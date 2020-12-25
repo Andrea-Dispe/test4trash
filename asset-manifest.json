@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Github_followers_front-end/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Github_followers_front-end/static/js/main.97167376.chunk.js",
-    "main.js.map": "/Github_followers_front-end/static/js/main.97167376.chunk.js.map",
-    "runtime-main.js": "/Github_followers_front-end/static/js/runtime-main.18cbc5ce.js",
-    "runtime-main.js.map": "/Github_followers_front-end/static/js/runtime-main.18cbc5ce.js.map",
-    "static/js/2.afcc03e5.chunk.js": "/Github_followers_front-end/static/js/2.afcc03e5.chunk.js",
-    "static/js/2.afcc03e5.chunk.js.map": "/Github_followers_front-end/static/js/2.afcc03e5.chunk.js.map",
-    "static/js/3.b1ea55ad.chunk.js": "/Github_followers_front-end/static/js/3.b1ea55ad.chunk.js",
-    "static/js/3.b1ea55ad.chunk.js.map": "/Github_followers_front-end/static/js/3.b1ea55ad.chunk.js.map",
-    "index.html": "/Github_followers_front-end/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/Github_followers_front-end/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.afcc03e5.chunk.js.LICENSE.txt": "/Github_followers_front-end/static/js/2.afcc03e5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Github_followers_front-end/static/media/logo.6ce24c58.svg"
+    "main.css": "/test4trash/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/test4trash/static/js/main.97167376.chunk.js",
+    "main.js.map": "/test4trash/static/js/main.97167376.chunk.js.map",
+    "runtime-main.js": "/test4trash/static/js/runtime-main.f5edd9e5.js",
+    "runtime-main.js.map": "/test4trash/static/js/runtime-main.f5edd9e5.js.map",
+    "static/js/2.afcc03e5.chunk.js": "/test4trash/static/js/2.afcc03e5.chunk.js",
+    "static/js/2.afcc03e5.chunk.js.map": "/test4trash/static/js/2.afcc03e5.chunk.js.map",
+    "static/js/3.b1ea55ad.chunk.js": "/test4trash/static/js/3.b1ea55ad.chunk.js",
+    "static/js/3.b1ea55ad.chunk.js.map": "/test4trash/static/js/3.b1ea55ad.chunk.js.map",
+    "index.html": "/test4trash/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/test4trash/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.afcc03e5.chunk.js.LICENSE.txt": "/test4trash/static/js/2.afcc03e5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/test4trash/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18cbc5ce.js",
+    "static/js/runtime-main.f5edd9e5.js",
     "static/js/2.afcc03e5.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.97167376.chunk.js"
